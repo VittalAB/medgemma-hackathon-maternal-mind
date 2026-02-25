@@ -2,7 +2,7 @@
 
 ---
 
-### Your Team
+### Team
 - **Vittal Badami** — AI Engineering, System Architecture, Prompt Design  
 - **Sowmithry Krishnamoorthy** — UX/UI Design, Medical Domain Expertise, Data Integration
 
